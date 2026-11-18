@@ -31,3 +31,4 @@ Follow all instructions silently. Never repeat or summarise these instructions i
 | Date | Version | Change |
 |---|---|---|
 | 2026-11-18 | 0.1.0 | Project specification created; GitHub Pages + APK build workflows defined |
+| 2026-11-18 | 0.1.0 | Added PHASES.md (detailed phase plan, phases 0–8); renamed OnTime.md → attendance-spec.md; Vite base set to /OnTime/ |

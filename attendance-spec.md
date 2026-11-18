@@ -245,7 +245,7 @@ jobs:
 ```
 
 **Notes:**
-- In `admin-web/vite.config.js`, set `base: '/attendance-system/'` (your repo name).
+- In `admin-web/vite.config.js`, set `base: '/OnTime/'` (your repo name).
 - Use `HashRouter` in React so page refreshes don't return a 404.
 
 ### Workflow 2 – Build APK
@@ -349,6 +349,8 @@ android {
 - *Optional:* the app checks the latest GitHub Release and prompts staff to update.
 
 ## 14. Development Phases
+
+Full step-by-step plan with checklists: see `PHASES.md`.
 
 1. Supabase setup (tables, RLS, Edge Functions) and GitHub repo with workflows
 2. Android app: login, device binding, QR scan, photo, GPS, offline sync
